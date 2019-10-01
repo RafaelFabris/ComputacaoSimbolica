@@ -12,7 +12,7 @@ namespace Métodos1
         {
             double y;
             double pow, const1, const2;
-            pow = 1 + (Math.Pow(1 + x, -48));
+            pow = 1 - (Math.Pow(1 + x, -48));
             const1 = 4754.28;
             const2 = 50000;
             y = ((const1 * pow) / x) - const2;

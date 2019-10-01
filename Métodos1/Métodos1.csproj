@@ -44,8 +44,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Bisseccao.cs" />
-    <Compile Include="Class1.cs" />
     <Compile Include="FalsaPosicao.cs" />
+    <Compile Include="Mil.cs" />
+    <Compile Include="NewRapshon.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
